@@ -1,0 +1,62 @@
+{
+    "appetizers":[
+        {
+            "name": "Chicken Noodle Soup Cup",
+            "ingredients": ["chicken", "onion", "carrot", "celery", "egg noodle", "chicken stock"],
+            "description": "A small cup of our fresh chicken noodle soup."
+        },
+        {
+            "name": "Side Salad",
+            "ingredients": ["romaine lettuce", "tomato", "cucumber", "crouton"],
+            "description": "Side salad served with your choice of dressing."
+        }
+    ],
+    "cold sandwiches":[
+        {
+            "name": "BLT",
+            "ingredients": ["bread", "bacon", "lettuce", "tomato", "mayonnaise"],
+            "description": "A classic BLT."
+        },
+        {
+            "name": "JSON's Club",
+            "ingredients": ["bread", "turkey", "ham", "swiss", "cheddar", "lettuce", "tomato", "honey mustard"],
+            "description": "The ultimate club sandwich, cut into fourths and served with tiny toothpicks."
+        }
+    ],
+    "hot sandwiches":[
+        {
+            "name": "Philly",
+            "ingredients": ["bread", "steak", "grilled onion", "cheese", "peppers"],
+            "description": "A basic philly cheesesteak."
+        },
+        {
+            "name": "Meatball Sub",
+            "ingredients": ["bread", "meatball", "marinara", "cheese"],
+            "description": "A toasted sub filled wtih Italian meatballs, melted provolone, zesty marinara, and Italian seasonings."
+        }
+    ],
+    "desserts":[
+        {
+            "name": "Snickerdoodle Cookie",
+            "ingredients": ["sugar", "butter", "cinnamon", "flour", "egg"],
+            "description": "A sugar cookie, but much better."
+        },
+        {
+            "name": "Red Velvet Cookie",
+            "ingredients": ["sugar", "butter", "cocoa", "flour", "egg", "vinegar", "red food coloring"],
+            "description": "A chocolate cookie, but much better."
+        }
+    ],
+    "drinks":[
+        {
+            "name": "Lemonade",
+            "ingredients": ["lemon", "sugar", "water"],
+            "description": "Freshly squeezed lemonade, made daily and served cold over ice."
+        },
+        {
+            "name": "Sweet Tea",
+            "ingredients": ["tea leaves", "sugar"],
+            "description": "A refreshing Southern classic."
+        }
+    ]
+}
