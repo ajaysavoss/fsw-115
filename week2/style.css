@@ -1,0 +1,17 @@
+*{
+    background-color: #E38605;
+    font-family: fantasy;
+    font-size: large;
+    text-align: center;
+    color: #005D96;
+}
+
+h1{
+    font-size: 100px;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
