@@ -1,0 +1,14 @@
+*{
+    background-color: #49E1F5;
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+    color: #F59449;
+}
+
+ul{
+    font-size: 45px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
