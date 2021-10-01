@@ -1,7 +1,7 @@
 {
     "appetizers":[
         {
-            "name": "Chicken Noodle Soup Cup",
+            "name": "Chicken Noodle Soup",
             "ingredients": ["chicken", "onion", "carrot", "celery", "egg noodle", "chicken stock"],
             "description": "A small cup of our fresh chicken noodle soup."
         },
