@@ -1,62 +1,63 @@
 {
-    "appetizers":[
+    "Appetizers":[
         {
             "name": "Chicken Noodle Soup",
             "ingredients": ["chicken", "onion", "carrot", "celery", "egg noodle", "chicken stock"],
-            "description": "A small cup of our fresh chicken noodle soup."
+            "description": "A cup of our fresh chicken noodle soup. Small baguette included."
         },
         {
             "name": "Side Salad",
-            "ingredients": ["romaine lettuce", "tomato", "cucumber", "crouton"],
+            "ingredients": ["arugula spinach mix", "tomato", "cucmber", "peperocino", "crouton"],
             "description": "Side salad served with your choice of dressing."
+        
         }
     ],
-    "cold sandwiches":[
+    "Cold Sandwhiches":[
         {
-            "name": "BLT",
-            "ingredients": ["bread", "bacon", "lettuce", "tomato", "mayonnaise"],
+            "name": "BLT", 
+            "ingredients": ["bread", "bacon", "lettuce", "tomato"],
             "description": "A classic BLT."
         },
         {
             "name": "JSON's Club",
             "ingredients": ["bread", "turkey", "ham", "swiss", "cheddar", "lettuce", "tomato", "honey mustard"],
-            "description": "The ultimate club sandwich, cut into fourths and served with tiny toothpicks."
+            "description": "The ultimate club sandwich, cut into fourths."
         }
     ],
-    "hot sandwiches":[
+    "Hot Sandwiches":[
         {
-            "name": "Philly",
-            "ingredients": ["bread", "steak", "grilled onion", "cheese", "peppers"],
-            "description": "A basic philly cheesesteak."
+            "name": "Philly Cheesesteak",
+            "ingredients": ["bread", "steak", "grilled onion", "cheese", "bell peppers"],
+            "description": "A classic philly cheesesteak."
         },
         {
             "name": "Meatball Sub",
-            "ingredients": ["bread", "meatball", "marinara", "cheese"],
-            "description": "A toasted sub filled wtih Italian meatballs, melted provolone, zesty marinara, and Italian seasonings."
+            "ingredients": ["bread", "meatball", "marinara", "provolone"],
+            "description": "A toasted sub filled with Italian meatballs, melted provolone, zesty marinara, and Italian seasonings."
         }
     ],
-    "desserts":[
+    "Deserts":[
         {
             "name": "Snickerdoodle Cookie",
             "ingredients": ["sugar", "butter", "cinnamon", "flour", "egg"],
-            "description": "A sugar cookie, but much better."
+            "description": "A better version of a sugar cookie."
         },
         {
             "name": "Red Velvet Cookie",
             "ingredients": ["sugar", "butter", "cocoa", "flour", "egg", "vinegar", "red food coloring"],
-            "description": "A chocolate cookie, but much better."
+            "description": "A better version of a chocolate cookie."
         }
     ],
-    "drinks":[
+    "Drinks":[
         {
             "name": "Lemonade",
             "ingredients": ["lemon", "sugar", "water"],
-            "description": "Freshly squeezed lemonade, made daily and served cold over ice."
+            "description": "Freshly squezed lemonade, made daily and served over ice."
         },
         {
             "name": "Sweet Tea",
             "ingredients": ["tea leaves", "sugar"],
-            "description": "A refreshing Southern classic."
+            "description": "A Southern classic."
         }
     ]
 }
